@@ -1,0 +1,26 @@
+{
+    "receptor": [
+        {
+            "_id": "72af42e0e74f11e6ac12f5e599fa25416",
+            "connectionType": "TCP",
+            "verificationTime": {
+                "require": false,
+                "value": "300"
+            },
+            "connectionParams": {
+                "ack": "06",
+                "nack": "15",
+                "port": "23",
+                "host": "192.168.1.85"
+            },
+            "settings": {
+                "bypassMode": false
+            },
+            "createdAt": "2020-10-02 10:07:03",
+            "idReceptor": "0",
+            "name": "Repector 1",
+            "type": "Sugar",
+            "active": true
+        }
+    ]
+}
